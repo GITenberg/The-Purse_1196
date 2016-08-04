@@ -1,0 +1,44 @@
+_repo: The-Purse_1196
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bell, Clara
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '1801'
+    url: http://www.gutenberg.org/2009/agents/1801
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    - De Balzac, Honoré
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: '""The Purse"" is a short story that makes up part of Honore de Balzac''''s
+  epic cycle The Human Comedy. Daydreaming while working on a ladder, the painter
+  Hippolyte Schinner accidentally falls and sustains an injury. Two neighbors -- a
+  mother and daughter -- come to his aid, and he falls in love at first sight with
+  the beautiful young woman, Adelaide. But over time, he begins to notice that the
+  veneer of aristocratic gentility that the two project is not what it appears.'
+gutenberg_issued: '2005-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+- GITenberg
+title: The Purse
+url: http://www.gutenberg.org/ebooks/1196
